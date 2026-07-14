@@ -190,6 +190,6 @@ If you found this project useful, consider giving the repository a ⭐.
 
 ** Data Analyst | MIS Analyst**
 
-**Skills:** Excel • SQL • Power BI • Power Query • DAX
+**Skills:** Excel • SQL • Power BI • Power Query • DAX • Reporting Automation • Business Problem Solving 
 
-**GitHub:** https://github.com/your-username
+**GitHub:** https://github.com/RAJTHAKARE2511
